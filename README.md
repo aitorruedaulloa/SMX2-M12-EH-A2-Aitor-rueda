@@ -39,6 +39,7 @@ Respuesta.
 
 
 6. ¿Qué es HTML ?
+3 y 4
 
 
 Respuesta.
